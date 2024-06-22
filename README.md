@@ -12,9 +12,8 @@ https://www.kaggle.com/datasets/allwynthomas2410/suicides-in-india-from-year-200
 
 
 In this mini-project, we will perform the following steps -
-Exploratory Data Analysis
-Machine Learning + Predictive Analytics
-Conclusions
+
+Exploratory Data Analysis  Machine Learning + Predictive Analytics  Conclusions
 
 What we have performed in this project is:
 
