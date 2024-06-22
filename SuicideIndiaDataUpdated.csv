@@ -1,0 +1,371 @@
+Row ID,State / UT,Cause Of Suicide,Male,Female,Transgender,Total
+1,Andaman & Nicobar Islands,Sleeping Pills,0,0,0,0
+2,Andaman & Nicobar Islands,Drowning,2,1,0,3
+3,Andaman & Nicobar Islands,Fire / Self-Immolation,1,2,0,3
+4,Andaman & Nicobar Islands,Fire Arms,0,0,0,0
+5,Andaman & Nicobar Islands,Hanging,99,25,0,124
+6,Andaman & Nicobar Islands,Poison,5,3,0,8
+7,Andaman & Nicobar Islands,Jumping,0,0,0,0
+8,Andaman & Nicobar Islands,Coming Under Running Vehicles / Trains,0,0,0,0
+9,Andaman & Nicobar Islands,Touching Live Electric Wire,0,0,0,0
+10,Andaman & Nicobar Islands,By Other Means,0,0,0,0
+11,Andhra Pradesh,Sleeping Pills,11,11,0,22
+12,Andhra Pradesh,Drowning,161,86,0,247
+13,Andhra Pradesh,Fire / Self-Immolation,125,149,0,274
+14,Andhra Pradesh,Fire Arms,7,5,0,12
+15,Andhra Pradesh,Hanging,1145,538,1,1684
+16,Andhra Pradesh,Poison,1630,889,1,2190
+17,Andhra Pradesh,Jumping,60,5,0,65
+18,Andhra Pradesh,Coming Under Running Vehicles / Trains,482,62,1,545
+19,Andhra Pradesh,Touching Live Electric Wire,41,13,0,54
+20,Andhra Pradesh,By Other Means,160,75,1,263
+21,Arunachal Pradesh,Sleeping Pills,0,0,0,0
+22,Arunachal Pradesh,Drowning,7,0,0,7
+23,Arunachal Pradesh,Fire / Self-Immolation,0,0,0,0
+24,Arunachal Pradesh,Fire Arms,1,0,0,1
+25,Arunachal Pradesh,Hanging,26,26,0,52
+26,Arunachal Pradesh,Poison,4,2,0,6
+27,Arunachal Pradesh,Jumping,2,0,0,2
+28,Arunachal Pradesh,Coming Under Running Vehicles / Trains,0,0,0,0
+29,Arunachal Pradesh,Touching Live Electric Wire,0,0,0,0
+30,Arunachal Pradesh,By Other Means,19,2,0,21
+31,Assam,Sleeping Pills,28,12,0,40
+32,Assam,Drowning,95,31,0,126
+33,Assam,Fire / Self-Immolation,6,9,0,15
+34,Assam,Fire Arms,16,15,0,31
+35,Assam,Hanging,847,369,0,1216
+36,Assam,Poison,177,62,0,239
+37,Assam,Jumping,2,2,0,4
+38,Assam,Coming Under Running Vehicles / Trains,43,21,0,64
+39,Assam,Touching Live Electric Wire,18,6,0,24
+40,Assam,By Other Means,353,159,0,512
+41,Bihar,Sleeping Pills,10,16,0,26
+42,Bihar,Drowning,12,29,0,41
+43,Bihar,Fire / Self-Immolation,6,4,0,10
+44,Bihar,Fire Arms,0,1,0,1
+45,Bihar,Hanging,105,90,0,195
+46,Bihar,Poison,46,31,0,77
+47,Bihar,Jumping,12,0,0,12
+48,Bihar,Coming Under Running Vehicles / Trains,0,0,0,0
+49,Bihar,Touching Live Electric Wire,2,3,0,5
+50,Bihar,By Other Means,3,3,0,6
+51,Chandigarh,Sleeping Pills,0,0,0,0
+52,Chandigarh,Drowning,1,0,0,1
+53,Chandigarh,Fire / Self-Immolation,0,0,0,0
+54,Chandigarh,Fire Arms,1,0,0,1
+55,Chandigarh,Hanging,54,30,0,84
+56,Chandigarh,Poison,21,6,0,27
+57,Chandigarh,Jumping,0,0,0,0
+58,Chandigarh,Coming Under Running Vehicles / Trains,0,0,0,0
+59,Chandigarh,Touching Live Electric Wire,0,0,0,0
+60,Chandigarh,By Other Means,0,0,0,0
+61,Chhattisgarh,Sleeping Pills,7,1,0,8
+62,Chhattisgarh,Drowning,18,7,0,25
+63,Chhattisgarh,Fire / Self-Immolation,128,339,0,467
+64,Chhattisgarh,Fire Arms,11,0,0,11
+65,Chhattisgarh,Hanging,2748,795,0,3543
+66,Chhattisgarh,Poison,1060,584,0,1644
+67,Chhattisgarh,Jumping,56,22,0,78
+68,Chhattisgarh,Coming Under Running Vehicles / Trains,95,22,0,117
+69,Chhattisgarh,Touching Live Electric Wire,21,3,0,24
+70,Chhattisgarh,By Other Means,257,110,0,367
+71,Dadra & Nagar Haveli,Sleeping Pills,0,0,0,0
+72,Dadra & Nagar Haveli,Drowning,1,0,0,1
+73,Dadra & Nagar Haveli,Fire / Self-Immolation,1,0,0,1
+74,Dadra & Nagar Haveli,Fire Arms,0,0,0,0
+75,Dadra & Nagar Haveli,Hanging,42,18,0,60
+76,Dadra & Nagar Haveli,Poison,4,7,0,11
+77,Dadra & Nagar Haveli,Jumping,2,0,0,2
+78,Dadra & Nagar Haveli,Coming Under Running Vehicles / Trains,0,0,0,0
+79,Dadra & Nagar Haveli,Touching Live Electric Wire,0,0,0,0
+80,Dadra & Nagar Haveli,By Other Means,1,0,0,1
+81,Daman & Diu,Sleeping Pills,0,0,0,0
+82,Daman & Diu,Drowning,1,0,0,1
+83,Daman & Diu,Fire / Self-Immolation,1,0,0,1
+84,Daman & Diu,Fire Arms,0,0,0,0
+85,Daman & Diu,Hanging,24,9,0,33
+86,Daman & Diu,Poison,3,3,0,6
+87,Daman & Diu,Jumping,0,0,0,0
+88,Daman & Diu,Coming Under Running Vehicles / Trains,0,0,0,0
+89,Daman & Diu,Touching Live Electric Wire,0,0,0,0
+90,Daman & Diu,By Other Means,0,0,0,0
+91,Delhi,Sleeping Pills,12,13,0,25
+92,Delhi,Drowning,3,3,0,6
+93,Delhi,Fire / Self-Immolation,14,7,0,21
+94,Delhi,Fire Arms,18,5,0,23
+95,Delhi,Hanging,1107,507,1,1615
+96,Delhi,Poison,69,55,0,124
+97,Delhi,Jumping,124,25,0,149
+98,Delhi,Coming Under Running Vehicles / Trains,11,0,0,11
+99,Delhi,Touching Live Electric Wire,3,1,0,4
+100,Delhi,By Other Means,332,148,1,481
+101,Goa,Sleeping Pills,0,0,0,0
+102,Goa,Drowning,23,17,0,40
+103,Goa,Fire / Self-Immolation,9,7,0,16
+104,Goa,Fire Arms,0,1,0,1
+105,Goa,Hanging,138,52,0,190
+106,Goa,Poison,9,1,0,10
+107,Goa,Jumping,1,2,0,3
+108,Goa,Coming Under Running Vehicles / Trains,7,1,0,8
+109,Goa,Touching Live Electric Wire,1,0,0,1
+110,Goa,By Other Means,3,1,0,4
+111,Gujarat,Sleeping Pills,18,10,0,28
+112,Gujarat,Drowning,437,159,0,596
+113,Gujarat,Fire / Self-Immolation,239,349,0,588
+114,Gujarat,Fire Arms,19,19,0,38
+115,Gujarat,Hanging,2101,1073,0,3174
+116,Gujarat,Poison,1532,850,0,2382
+117,Gujarat,Jumping,70,34,0,104
+118,Gujarat,Coming Under Running Vehicles / Trains,329,54,1,384
+119,Gujarat,Touching Live Electric Wire,26,0,0,26
+120,Gujarat,By Other Means,31,17,0,48
+121,Haryana,Sleeping Pills,23,4,0,29
+122,Haryana,Drowning,213,32,0,245
+123,Haryana,Fire / Self-Immolation,39,27,0,66
+124,Haryana,Fire Arms,2,3,0,5
+125,Haryana,Hanging,701,230,0,931
+126,Haryana,Poison,425,185,0,610
+127,Haryana,Jumping,114,19,0,133
+128,Haryana,Coming Under Running Vehicles / Trains,272,62,0,334
+129,Haryana,Touching Live Electric Wire,75,16,0,91
+130,Haryana,By Other Means,736,141,0,877
+131,Himachal Pradesh,Sleeping Pills,0,0,0,0
+132,Himachal Pradesh,Drowning,18,5,0,23
+133,Himachal Pradesh,Fire / Self-Immolation,8,16,0,23
+134,Himachal Pradesh,Fire Arms,4,6,0,10
+135,Himachal Pradesh,Hanging,120,70,0,190
+136,Himachal Pradesh,Poison,186,141,0,327
+137,Himachal Pradesh,Jumping,0,0,0,0
+138,Himachal Pradesh,Coming Under Running Vehicles / Trains,0,0,0,0
+139,Himachal Pradesh,Touching Live Electric Wire,2,0,0,2
+140,Himachal Pradesh,By Other Means,0,0,0,0
+141,Jammu & Kashmir,Sleeping Pills,0,0,0,0
+142,Jammu & Kashmir,Drowning,4,5,0,9
+143,Jammu & Kashmir,Fire / Self-Immolation,1,6,0,7
+144,Jammu & Kashmir,Fire Arms,11,0,0,11
+145,Jammu & Kashmir,Hanging,48,31,0,79
+146,Jammu & Kashmir,Poison,62,92,0,154
+147,Jammu & Kashmir,Jumping,2,3,0,5
+148,Jammu & Kashmir,Coming Under Running Vehicles / Trains,9,0,0,9
+149,Jammu & Kashmir,Touching Live Electric Wire,3,0,0,3
+150,Jammu & Kashmir,By Other Means,9,1,0,10
+151,Ladakh,Sleeping Pills,0,0,0,0
+152,Ladakh,Drowning,0,0,0,0
+153,Ladakh,Fire / Self-Immolation,0,0,0,0
+154,Ladakh,Fire Arms,0,0,0,0
+155,Ladakh,Hanging,6,3,0,9
+156,Ladakh,Poison,2,1,0,3
+157,Ladakh,Jumping,0,0,0,0
+158,Ladakh,Coming Under Running Vehicles / Trains,0,0,0,0
+159,Ladakh,Touching Live Electric Wire,0,0,0,0
+160,Ladakh,By Other Means,0,0,0,0
+161,Jharkhand,Sleeping Pills,85,40,0,125
+162,Jharkhand,Drowning,113,56,0,169
+163,Jharkhand,Fire / Self-Immolation,30,22,0,52
+164,Jharkhand,Fire Arms,2,0,0,2
+165,Jharkhand,Hanging,440,134,0,574
+166,Jharkhand,Poison,49,25,0,74
+167,Jharkhand,Jumping,81,35,0,116
+168,Jharkhand,Coming Under Running Vehicles / Trains,68,4,0,72
+169,Jharkhand,Touching Live Electric Wire,0,2,0,2
+170,Jharkhand,By Other Means,2,0,0,2
+171,Karnataka,Sleeping Pills,106,45,0,151
+172,Karnataka,Drowning,484,288,0,772
+173,Karnataka,Fire / Self-Immolation,144,124,0,268
+174,Karnataka,Fire Arms,18,6,0,24
+175,Karnataka,Hanging,4526,1568,1,6095
+176,Karnataka,Poison,2042,668,0,2710
+177,Karnataka,Jumping,45,12,0,57
+178,Karnataka,Coming Under Running Vehicles / Trains,559,109,0,668
+179,Karnataka,Touching Live Electric Wire,18,4,0,22
+180,Karnataka,By Other Means,466,243,0,709
+181,Kerala,Sleeping Pills,26,28,0,54
+182,Kerala,Drowning,202,160,0,362
+183,Kerala,Fire / Self-Immolation,76,166,0,242
+184,Kerala,Fire Arms,10,3,0,13
+185,Kerala,Hanging,4666,1109,0,5775
+186,Kerala,Poison,788,194,0,984
+187,Kerala,Jumping,93,22,0,115
+188,Kerala,Coming Under Running Vehicles / Trains,81,24,0,105
+189,Kerala,Touching Live Electric Wire,7,1,0,8
+190,Kerala,By Other Means,120,49,0,169
+191,Lakshadweep,Sleeping Pills,0,0,0,0
+192,Lakshadweep,Drowning,0,0,0,0
+193,Lakshadweep,Fire / Self-Immolation,0,0,0,0
+194,Lakshadweep,Fire Arms,0,0,0,0
+195,Lakshadweep,Hanging,0,0,0,0
+196,Lakshadweep,Poison,0,0,0,0
+197,Lakshadweep,Jumping,0,0,0,0
+198,Lakshadweep,Coming Under Running Vehicles / Trains,0,0,0,0
+199,Lakshadweep,Touching Live Electric Wire,0,0,0,0
+200,Lakshadweep,By Other Means,0,0,0,0
+201,Madhya Pradesh,Sleeping Pills,39,8,0,47
+202,Madhya Pradesh,Drowning,285,174,0,459
+203,Madhya Pradesh,Fire / Self-Immolation,188,641,0,829
+204,Madhya Pradesh,Fire Arms,47,5,0,52
+205,Madhya Pradesh,Hanging,4217,2029,0,6246
+206,Madhya Pradesh,Poison,2285,1395,0,3680
+207,Madhya Pradesh,Jumping,126,21,0,147
+208,Madhya Pradesh,Coming Under Running Vehicles / Trains,79,29,0,108
+209,Madhya Pradesh,Touching Live Electric Wire,32,5,0,37
+210,Madhya Pradesh,By Other Means,99,43,0,142
+211,Maharashtra,Sleeping Pills,49,29,0,78
+212,Maharashtra,Drowning,750,398,0,1148
+213,Maharashtra,Fire / Self-Immolation,388,490,0,878
+214,Maharashtra,Fire Arms,11,5,0,16
+215,Maharashtra,Hanging,7588,2094,0,9682
+216,Maharashtra,Poison,3649,1119,0,4768
+217,Maharashtra,Jumping,242,76,0,318
+218,Maharashtra,Coming Under Running Vehicles / Trains,280,55,0,335
+219,Maharashtra,Touching Live Electric Wire,63,15,1,79
+220,Maharashtra,By Other Means,198,89,0,287
+221,Manipur,Sleeping Pills,0,0,0,0
+222,Manipur,Drowning,0,0,0,0
+223,Manipur,Fire / Self-Immolation,0,1,0,1
+224,Manipur,Fire Arms,0,0,0,0
+225,Manipur,Hanging,26,14,0,40
+226,Manipur,Poison,1,1,0,2
+227,Manipur,Jumping,0,0,0,0
+228,Manipur,Coming Under Running Vehicles / Trains,0,0,0,0
+229,Manipur,Touching Live Electric Wire,0,0,0,0
+230,Manipur,By Other Means,0,0,0,0
+231,Meghalaya,Sleeping Pills,0,0,0,0
+232,Meghalaya,Drowning,2,2,0,4
+233,Meghalaya,Fire / Self-Immolation,2,1,0,3
+234,Meghalaya,Fire Arms,1,1,0,2
+235,Meghalaya,Hanging,113,27,0,140
+236,Meghalaya,Poison,2,3,0,5
+237,Meghalaya,Jumping,4,2,0,6
+238,Meghalaya,Coming Under Running Vehicles / Trains,1,0,0,1
+239,Meghalaya,Touching Live Electric Wire,0,0,0,1
+240,Meghalaya,By Other Means,1,0,0,1
+241,Mizoram,Sleeping Pills,0,0,0,0
+242,Mizoram,Drowning,0,0,0,0
+243,Mizoram,Fire / Self-Immolation,1,0,0,1
+244,Mizoram,Fire Arms,0,0,0,0
+245,Mizoram,Hanging,73,14,0,87
+246,Mizoram,Poison,1,1,0,2
+247,Mizoram,Jumping,0,0,0,0
+248,Mizoram,Coming Under Running Vehicles / Trains,0,0,0,0
+249,Mizoram,Touching Live Electric Wire,1,0,0,1
+250,Mizoram,By Other Means,0,0,0,0
+251,Nagaland,Sleeping Pills,0,0,0,0
+252,Nagaland,Drowning,0,0,0,0
+253,Nagaland,Fire / Self-Immolation,0,0,0,0
+254,Nagaland,Fire Arms,1,0,0,1
+255,Nagaland,Hanging,24,8,0,32
+256,Nagaland,Poison,0,0,0,0
+257,Nagaland,Jumping,0,0,0,0
+258,Nagaland,Coming Under Running Vehicles / Trains,0,0,0,0
+259,Nagaland,Touching Live Electric Wire,0,0,0,0
+260,Nagaland,By Other Means,0,0,0,0
+261,Odisha,Sleeping Pills,0,3,0,3
+262,Odisha,Drowning,29,36,0,65
+263,Odisha,Fire / Self-Immolation,23,122,0,145
+264,Odisha,Fire Arms,1,3,0,4
+265,Odisha,Hanging,883,756,0,1639
+266,Odisha,Poison,945,1258,0,2203
+267,Odisha,Jumping,64,6,0,70
+268,Odisha,Coming Under Running Vehicles / Trains,34,16,0,50
+269,Odisha,Touching Live Electric Wire,0,1,0,1
+270,Odisha,By Other Means,194,119,0,313
+271,Puducherry,Sleeping Pills,0,0,0,0
+272,Puducherry,Drowning,68,6,0,74
+273,Puducherry,Fire / Self-Immolation,10,1,0,11
+274,Puducherry,Fire Arms,0,0,0,0
+275,Puducherry,Hanging,11,49,0,60
+276,Puducherry,Poison,14,6,0,21
+277,Puducherry,Jumping,0,0,0,0
+278,Puducherry,Coming Under Running Vehicles / Trains,0,0,0,0
+279,Puducherry,Touching Live Electric Wire,12,0,0,12
+280,Puducherry,By Other Means,141,47,0,188
+281,Punjab,Sleeping Pills,12,4,0,16
+282,Punjab,Drowning,70,24,0,94
+283,Punjab,Fire / Self-Immolation,8,8,0,16
+284,Punjab,Fire Arms,14,2,0,16
+285,Punjab,Hanging,503,178,0,681
+286,Punjab,Poison,200,71,0,271
+287,Punjab,Jumping,2,1,0,3
+288,Punjab,Coming Under Running Vehicles / Trains,345,39,0,384
+289,Punjab,Touching Live Electric Wire,0,0,0,0
+290,Punjab,By Other Means,0,0,0,0
+291,Rajasthan,Sleeping Pills,25,4,0,29
+292,Rajasthan,Drowning,136,75,0,211
+293,Rajasthan,Fire / Self-Immolation,50,55,0,105
+294,Rajasthan,Fire Arms,10,0,0,10
+295,Rajasthan,Hanging,1553,520,0,2073
+296,Rajasthan,Poison,380,208,0,588
+297,Rajasthan,Jumping,178,61,0,239
+298,Rajasthan,Coming Under Running Vehicles / Trains,127,23,0,150
+299,Rajasthan,Touching Live Electric Wire,18,6,0,24
+300,Rajasthan,By Other Means,272,106,0,378
+301,Sikkim,Sleeping Pills,0,0,0,0
+302,Sikkim,Drowning,2,0,0,2
+303,Sikkim,Fire / Self-Immolation,0,0,0,0
+304,Sikkim,Fire Arms,0,0,0,0
+305,Sikkim,Hanging,150,51,0,201
+306,Sikkim,Poison,0,0,0,0
+307,Sikkim,Jumping,1,0,0,1
+308,Sikkim,Coming Under Running Vehicles / Trains,0,0,0,0
+309,Sikkim,Touching Live Electric Wire,0,0,0,0
+310,Sikkim,By Other Means,7,2,0,9
+311,Tamil Nadu,Sleeping Pills,118,44,1,163
+312,Tamil Nadu,Drowning,259,132,0,391
+313,Tamil Nadu,Fire / Self-Immolation,642,819,0,1461
+314,Tamil Nadu,Fire Arms,3,13,0,16
+315,Tamil Nadu,Hanging,4659,1915,4,6578
+316,Tamil Nadu,Poison,3968,1532,1,5501
+317,Tamil Nadu,Jumping,87,33,0,120
+318,Tamil Nadu,Coming Under Running Vehicles / Trains,29,9,0,38
+319,Tamil Nadu,Touching Live Electric Wire,36,6,0,42
+320,Tamil Nadu,By Other Means,50,46,0,96
+321,Telangana,Sleeping Pills,6,4,0,10
+322,Telangana,Drowning,315,144,0,459
+323,Telangana,Fire / Self-Immolation,12,271,0,283
+324,Telangana,Fire Arms,0,0,0,0
+325,Telangana,Hanging,1894,907,0,2801
+326,Telangana,Poison,2290,888,0,3178
+327,Telangana,Jumping,260,36,0,296
+328,Telangana,Coming Under Running Vehicles / Trains,318,50,0,368
+329,Telangana,Touching Live Electric Wire,0,0,0,0
+330,Telangana,By Other Means,168,52,0,220
+331,Tripura,Sleeping Pills,24,9,0,33
+332,Tripura,Drowning,11,2,0,13
+333,Tripura,Fire / Self-Immolation,6,28,0,34
+334,Tripura,Fire Arms,6,0,0,6
+335,Tripura,Hanging,306,111,0,417
+336,Tripura,Poison,95,87,0,182
+337,Tripura,Jumping,6,1,0,7
+338,Tripura,Coming Under Running Vehicles / Trains,0,0,0,0
+339,Tripura,Touching Live Electric Wire,0,0,0,0
+340,Tripura,By Other Means,0,0,0,0
+341,Uttar Pradesh,Sleeping Pills,32,19,0,51
+342,Uttar Pradesh,Drowning,92,25,0,117
+343,Uttar Pradesh,Fire / Self-Immolation,152,268,0,420
+344,Uttar Pradesh,Fire Arms,96,77,0,173
+345,Uttar Pradesh,Hanging,1506,1038,0,2544
+346,Uttar Pradesh,Poison,350,279,0,629
+347,Uttar Pradesh,Jumping,64,23,0,87
+348,Uttar Pradesh,Coming Under Running Vehicles / Trains,17,6,0,23
+349,Uttar Pradesh,Touching Live Electric Wire,39,16,0,55
+350,Uttar Pradesh,By Other Means,188,86,0,274
+351,Uttarakhand,Sleeping Pills,6,3,0,9
+352,Uttarakhand,Drowning,10,6,0,16
+353,Uttarakhand,Fire / Self-Immolation,6,3,0,9
+354,Uttarakhand,Fire Arms,0,0,0,0
+355,Uttarakhand,Hanging,91,56,0,147
+356,Uttarakhand,Poison,81,48,0,129
+357,Uttarakhand,Jumping,8,2,0,10
+358,Uttarakhand,Coming Under Running Vehicles / Trains,0,0,0,0
+359,Uttarakhand,Touching Live Electric Wire,0,0,0,0
+360,Uttarakhand,By Other Means,7,3,0,10
+361,West Bengal,Sleeping Pills,47,23,0,70
+362,West Bengal,Drowning,395,114,0,509
+363,West Bengal,Fire / Self-Immolation,113,496,0,609
+364,West Bengal,Fire Arms,0,0,0,0
+365,West Bengal,Hanging,3517,2205,1,5723
+366,West Bengal,Poison,1631,1299,0,2930
+367,West Bengal,Jumping,43,11,0,54
+368,West Bengal,Coming Under Running Vehicles / Trains,39,3,0,42
+369,West Bengal,Touching Live Electric Wire,35,8,0,43
+370,West Bengal,By Other Means,1414,594,0,2008
