@@ -13,13 +13,13 @@ https://www.kaggle.com/datasets/allwynthomas2410/suicides-in-india-from-year-200
 
 In this mini-project, we will perform the following steps -
 
-Exploratory Data Analysis  Machine Learning + Predictive Analytics  Conclusions
+Exploratory Data Analysis< br / >Machine Learning + Predictive Analytics< br / >Conclusions
 
-What we have performed in this project is:
+What we have performed in this project is:< br / >
 
-Total Suicides in India
-Total Suicides in India by Cause of Suicide
-Total Suicides In India Gender Wise
+Total Suicides in India< br / >
+Total Suicides in India by Cause of Suicide< br / >
+Total Suicides In India Gender Wise< br / >
 Total Suicides In India State Wise
 Total Suicides In India State-Gender Wise
 Predict Suicides in India Using Machine Learning Algorithms
