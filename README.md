@@ -1,4 +1,4 @@
-# Echoes
+# Suicide in India
 Suicide Rate Analysis (2000 - 2020)
 
 PROJECT DESCRIPTION
